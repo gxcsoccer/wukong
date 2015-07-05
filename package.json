@@ -1,0 +1,34 @@
+{
+  "name": "wukong-sdk",
+  "version": "0.0.0",
+  "description": "alibaba wukong sdk",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxcsoccer/wukong.git"
+  },
+  "keywords": [
+    "wukong"
+  ],
+  "author": "gxcsoccer@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gxcsoccer/wukong/issues"
+  },
+  "homepage": "https://github.com/gxcsoccer/wukong#readme",
+  "dependencies": {
+    "agentkeepalive": "~2.0.2",
+    "copy-to": "~2.0.1",
+    "debug": "~2.2.0",
+    "is-type-of": "~0.3.1",
+    "merge-descriptors": "~1.0.0",
+    "mime": "~1.3.4",
+    "urllib": "~2.3.8"
+  }
+}
